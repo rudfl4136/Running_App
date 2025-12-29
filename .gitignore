@@ -46,3 +46,8 @@ ios/Flutter/App.framework
 # Web
 # =========================
 web/.dart_tool/
+
+# Firebase
+android/app/google-services.json
+ios/Runner/GoogleService-Info.plist
+lib/firebase_options.dart
